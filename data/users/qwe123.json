@@ -1,0 +1,205 @@
+{
+    "purchases": [
+        {
+            "filmId": "film18",
+            "title": "Film 18",
+            "price": 469,
+            "ts": 1777499775
+        },
+        {
+            "filmId": "film19",
+            "title": "Film 19",
+            "price": 289,
+            "ts": 1777499775
+        },
+        {
+            "filmId": "film20",
+            "title": "Film 20",
+            "price": 379,
+            "ts": 1777499781
+        },
+        {
+            "filmId": "film8",
+            "title": "Film 8",
+            "price": 229,
+            "ts": 1777499826
+        },
+        {
+            "filmId": "film9",
+            "title": "Film 9",
+            "price": 399,
+            "ts": 1777499826
+        },
+        {
+            "filmId": "film17",
+            "title": "Film 17",
+            "price": 239,
+            "ts": 1777500474
+        },
+        {
+            "filmId": "film6",
+            "title": "Film 6",
+            "price": 179,
+            "ts": 1777500923
+        },
+        {
+            "filmId": "film13",
+            "title": "Film 13",
+            "price": 449,
+            "ts": 1777500967
+        },
+        {
+            "filmId": "film3",
+            "title": "Film 3",
+            "price": 249,
+            "ts": 1777501660
+        }
+    ],
+    "views": [
+        {
+            "filmId": "film18",
+            "title": "Film 18",
+            "ts": 1777499785
+        },
+        {
+            "filmId": "film18",
+            "title": "Film 18",
+            "ts": 1777499788
+        },
+        {
+            "filmId": "film8",
+            "title": "Film 8",
+            "ts": 1777499832
+        },
+        {
+            "filmId": "film9",
+            "title": "Film 9",
+            "ts": 1777499835
+        },
+        {
+            "filmId": "film17",
+            "title": "Film 17",
+            "ts": 1777500478
+        },
+        {
+            "filmId": "film17",
+            "title": "Film 17",
+            "ts": 1777500502
+        },
+        {
+            "filmId": "film17",
+            "title": "Film 17",
+            "ts": 1777500505
+        },
+        {
+            "filmId": "film6",
+            "title": "Film 6",
+            "ts": 1777500927
+        },
+        {
+            "filmId": "film6",
+            "title": "Film 6",
+            "ts": 1777500930
+        },
+        {
+            "filmId": "film6",
+            "title": "Film 6",
+            "ts": 1777500932
+        },
+        {
+            "filmId": "film6",
+            "title": "Film 6",
+            "ts": 1777500934
+        },
+        {
+            "filmId": "film6",
+            "title": "Film 6",
+            "ts": 1777500937
+        },
+        {
+            "filmId": "film13",
+            "title": "Film 13",
+            "ts": 1777500971
+        },
+        {
+            "filmId": "film13",
+            "title": "Film 13",
+            "ts": 1777500974
+        },
+        {
+            "filmId": "film13",
+            "title": "Film 13",
+            "ts": 1777500978
+        },
+        {
+            "filmId": "film13",
+            "title": "Film 13",
+            "ts": 1777500981
+        },
+        {
+            "filmId": "film13",
+            "title": "Film 13",
+            "ts": 1777500983
+        },
+        {
+            "filmId": "film13",
+            "title": "Film 13",
+            "ts": 1777500993
+        },
+        {
+            "filmId": "film13",
+            "title": "Film 13",
+            "ts": 1777500995
+        },
+        {
+            "filmId": "film13",
+            "title": "Film 13",
+            "ts": 1777500997
+        },
+        {
+            "filmId": "film13",
+            "title": "Film 13",
+            "ts": 1777500999
+        },
+        {
+            "filmId": "film13",
+            "title": "Film 13",
+            "ts": 1777501001
+        },
+        {
+            "filmId": "film13",
+            "title": "Film 13",
+            "ts": 1777501004
+        },
+        {
+            "filmId": "film3",
+            "title": "Film 3",
+            "ts": 1777501664
+        },
+        {
+            "filmId": "film3",
+            "title": "Film 3",
+            "ts": 1777501958
+        },
+        {
+            "filmId": "film19",
+            "title": "Film 19",
+            "ts": 1777501985
+        },
+        {
+            "filmId": "film19",
+            "title": "Film 19",
+            "ts": 1777502275
+        },
+        {
+            "filmId": "film13",
+            "title": "Film 13",
+            "ts": 1777502453
+        },
+        {
+            "filmId": "film3",
+            "title": "Film 3",
+            "ts": 1777504754
+        }
+    ]
+}

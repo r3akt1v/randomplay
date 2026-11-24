@@ -1,0 +1,88 @@
+{
+    "purchases": [
+        {
+            "filmId": "cf_dc46691d8d941823",
+            "title": "WW",
+            "price": 6767,
+            "ts": 1777507468
+        },
+        {
+            "filmId": "cf_7550c71d5c6b7692",
+            "title": "6767676767676767 NIKITA F",
+            "price": 52,
+            "ts": 1789309388
+        },
+        {
+            "filmId": "cf_15622b999782e2a9",
+            "title": "5",
+            "price": 299,
+            "ts": 1789309388
+        },
+        {
+            "filmId": "film18",
+            "title": "Film 18",
+            "price": 469,
+            "ts": 1789309433
+        },
+        {
+            "filmId": "film19",
+            "title": "Film 19",
+            "price": 289,
+            "ts": 1789309433
+        },
+        {
+            "filmId": "film20",
+            "title": "Film 20",
+            "price": 379,
+            "ts": 1789309433
+        },
+        {
+            "filmId": "film17",
+            "title": "Film 17",
+            "price": 239,
+            "ts": 1789309433
+        }
+    ],
+    "views": [
+        {
+            "filmId": "cf_dc46691d8d941823",
+            "title": "WW",
+            "ts": 1777507474
+        },
+        {
+            "filmId": "cf_15622b999782e2a9",
+            "title": "5",
+            "ts": 1789309392
+        },
+        {
+            "filmId": "cf_15622b999782e2a9",
+            "title": "5",
+            "ts": 1789309396
+        },
+        {
+            "filmId": "cf_15622b999782e2a9",
+            "title": "5",
+            "ts": 1789309416
+        },
+        {
+            "filmId": "film19",
+            "title": "Film 19",
+            "ts": 1789309436
+        },
+        {
+            "filmId": "film18",
+            "title": "Film 18",
+            "ts": 1789309440
+        },
+        {
+            "filmId": "film20",
+            "title": "Film 20",
+            "ts": 1789309445
+        },
+        {
+            "filmId": "film17",
+            "title": "Film 17",
+            "ts": 1789309504
+        }
+    ]
+}

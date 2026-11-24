@@ -1,0 +1,17 @@
+{
+    "purchases": [
+        {
+            "filmId": "film18",
+            "title": "Film 18",
+            "price": 469,
+            "ts": 1777503342
+        }
+    ],
+    "views": [
+        {
+            "filmId": "film18",
+            "title": "Film 18",
+            "ts": 1777503346
+        }
+    ]
+}
